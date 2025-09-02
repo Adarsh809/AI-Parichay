@@ -4,8 +4,8 @@ app_file: app.py
 sdk: gradio
 sdk_version: 5.44.1
 ---
-# AI-Parichay: Next-Gen Introduction
-## Powered by RAG and Agentic AI
+# AI-Parichay: Next-Gen Introduction 
+## [Hugging Face Link](https://huggingface.co/spaces/Adarsh80/AI_Parichay) - Powered by RAG and Agentic AI 
 
 This project creates a personal AI chatbot that acts as a digital version of me. It uses Google's Gemini Pro model via the OpenAI client library to conduct conversations, answer questions based on personal documents (Resume, LinkedIn profile), and interact with external tools to perform specific actions. The application is served through a user-friendly web interface created with Gradio.
 
